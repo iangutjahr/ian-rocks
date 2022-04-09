@@ -5,6 +5,7 @@ This is a test
 
 # My PGP Key
 
+[code]
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEYlHiwhYJKwYBBAHaRw8BAQdAuJcu8RxBKOYjr5/0vxcI074AiePdbWu00HAp
@@ -19,5 +20,5 @@ TBAQqgHF7xNZJ4bUjy9uM5a+B+wIc0YsBrACDA==
 =qCmP
 
 -----END PGP PUBLIC KEY BLOCK-----
-
+[/code]
 
